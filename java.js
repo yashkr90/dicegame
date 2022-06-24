@@ -7,8 +7,8 @@ let diceno2=Math.floor((Math.random()*6)) +1;
 
 console.log(diceno1);
 
-let randomimage1= "images/dice"+diceno1+".png";
-let randomimage2= "images/dice"+diceno2+".png";
+let randomimage1= "dice"+diceno1+".png";
+let randomimage2= "dice"+diceno2+".png";
 
 console.log(typeof randomimage1);
 
