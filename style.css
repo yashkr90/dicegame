@@ -1,0 +1,41 @@
+body{
+    background-color:rgb(57, 67, 85)
+}
+
+.container{
+    text-align: center;
+    margin: auto;
+    
+
+}
+.dice{
+    display: inline-block;
+}
+
+h1{
+    font-size: 8rem;
+    margin-bottom: 0%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+p{
+    font-size: 2rem;
+}
+
+.buttonbox{
+    margin-top: 5%;
+    text-align: center;
+    
+}
+.btn{
+    font-size: 1rem;
+    border-color:rgb(41, 55, 70);
+    border-width: 0.5rem;
+    
+    background-color: brown;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.imge{
+    width: 80%;
+}
+
